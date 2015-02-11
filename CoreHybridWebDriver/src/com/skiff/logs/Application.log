@@ -1,0 +1,10 @@
+2014-07-24 16:04:02,610(dd/MM/yyyy HH:mm:ss) devinoyLogger Hello
+2014-07-24 16:04:02,610(dd/MM/yyyy HH:mm:ss) devinoyLogger Properties loaded. Starting testing
+2014-07-24 16:04:02,610(dd/MM/yyyy HH:mm:ss) devinoyLogger Intialize Suite xlsx
+2014-07-24 16:04:03,109(dd/MM/yyyy HH:mm:ss) devinoyLogger Login -- Y
+2014-07-24 16:04:03,109(dd/MM/yyyy HH:mm:ss) devinoyLogger ******Executing the Suite******Login
+2014-07-24 16:04:03,156(dd/MM/yyyy HH:mm:ss) devinoyLogger login -- Y
+2014-07-24 16:04:03,156(dd/MM/yyyy HH:mm:ss) devinoyLogger Executing the test case -> login
+2014-07-24 16:04:03,156(dd/MM/yyyy HH:mm:ss) devinoyLogger Iteration number 1
+2014-07-24 16:04:03,156(dd/MM/yyyy HH:mm:ss) devinoyLogger openBrowser
+2014-07-24 16:05:16,615(dd/MM/yyyy HH:mm:ss) devinoyLogger Opening browser
